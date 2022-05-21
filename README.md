@@ -32,7 +32,7 @@
 - (Contest) Prediction of Condensation (01/05/2020-05/06/2020) / Host: Korea Meteorological Administration
 - (Contest) Prediction of Psychological tendencies (28/09/2020 ~ 16/11/2020) / Top 46% / Host: Dacon
 - (Contest) Consumer Trend Analysis (23/09/2020 ~ 25/10/2020) / 4th Prize / Host : KDX 
-- (Contest) [Investor Profiling of Generation Y&Z](https://dacon.io/codeshare/2126) (23/11/2020 ~ 31/12/2020) / Top 16% / Host: NH INVESTMENT, Dacon
+- (Contest) [Profiling Y&Z Generation Investors](https://dacon.io/codeshare/2126) (23/11/2020 ~ 31/12/2020) / Top 16% / Host: NH INVESTMENT, Dacon
 
 #### 2019
 - (Contest) Searching the Public House's Perfect Location (01/11/2019-30/11/2019) / 3rd Prize / Host: Ewha Statistics
