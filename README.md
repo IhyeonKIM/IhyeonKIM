@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome%20to%20Ihyeon's%20Workplace%20&fontSize=50&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome%20to%20Ihyeon's%20Workplace%20&fontSize=45&fontColor=FFFFFF)
 
 ![IhyeonKIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=IhyeonKIM&show_icons=true&theme=vue)
 
