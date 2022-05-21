@@ -12,7 +12,7 @@
 > * 📧 <2hyeon@ewhain.net>
 
 ### _Skill for Analysis_
-<img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/> <img alt="MicrosoftExcel" src ="https://img.shields.io/badge/Microsoft_Excel-217346.svg?&style=for-the-badge&logo=MicrosoftExcel&logoColor=black"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="mysql" src ="https://img.shields.io/badge/MySQL-FF9E0F.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> 
+<img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/> <img alt="MicrosoftExcel" src ="https://img.shields.io/badge/Microsoft_Excel-217346.svg?&style=for-the-badge&logo=MicrosoftExcel&logoColor=black"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>  <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>  <img alt="mysql" src ="https://img.shields.io/badge/MySQL-FF9E0F.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> <img alt="SAS" src ="https://img.shields.io/badge/sas-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white"/> 
 ---
 
 ### _My project_ 
