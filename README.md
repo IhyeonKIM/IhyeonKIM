@@ -27,8 +27,8 @@
 
 #### 2021
 - (Contest) Predicting parking demand / Top 1% / Host : LH, Dacon
-- (Contest) Predicting Food Waste Emissions in Jeju Island / 2nd Prize / Big-Contest 
-- (21-2 course work) Theoretical Statistics II
+- (Contest) [Predicting Food Waste Emissions in Jeju Island](https://github.com/IhyeonKIM/2021-Bigcontest2021-JejuFoodWaste) / 2nd Prize / Big-Contest 
+- (21-2 course work) [Theoretical Statistics II](https://github.com/IhyeonKIM/Theoretical-Statistics)
 - (21-2 course work) Computational Statistics
 - (21-1 course work) Seminar
 
