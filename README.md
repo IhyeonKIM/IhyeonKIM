@@ -40,7 +40,7 @@
 - (Contest) Investor Profiling of Generation Y&Z (23/11/2020 ~ 31/12/2020) / Top 16% / Host: NH INVESTMENT, Dacon
 
 #### 2019
-- (Contest) Searching the Public House's Perfect Location (01/11/2019-30/11/2019) / Host: Ewha Statistics
+- (Contest) Searching the Public House's Perfect Location (01/11/2019-30/11/2019) / 3rd Prize / Host: Ewha Statistics
 - (course work) Spotify Music Analysis (01/11/2019-20/12/2019) 
 
 ---
