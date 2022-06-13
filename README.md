@@ -18,7 +18,7 @@
 ### _My project_ 
 #### 2022 
 - (22-1 course work) Data Mining
-- (22-1 course work) Actuarial Modeling 
+- (22-1 course work) [Actuarial Modeling](https://github.com/IhyeonKIM/Actuarial_Modeling) 
 
 #### 2021
 - (Contest) Predicting parking demand / Top 1% / Host : LH, Dacon
